@@ -1,55 +1,34 @@
-window.py
+Tkinter Learning Path
+=====================
 
-label.py
+Read the examples in the following order.
+Unless otherwise specified, all files are located inside the tutorial/ directory.
 
-button.py
-
-button_project.py
-
-user_input.py
-
-checkbox.py
-
-radiobuttons.py
-
-scales.py
-
-listbox.py
-
-messagebox.py
-
-colorchooser.py
-
-textarea.py
-
-filedialog.py
-
-filedialog2.py
-
-menubar.py
-
-frame.py
-
-new_window.py
-
-window_tab.py
-
-grid_layout.py
-
-progress_bar.py
-
-canvas.py
-
-key_event.py
-
-mouse_event.py
-
-drag_drop.py
-
-move_images.py
-
-move_images_canvas.py
-
-single_animation.py
-
-multiple_animation.py
+01. window.py
+02. label.py
+03. button.py
+04. button_project.py
+05. user_input.py
+06. checkbox.py
+07. radiobuttons.py
+08. scales.py
+09. listbox.py
+10. messagebox.py
+11. colorchooser.py
+12. textarea.py
+13. filedialog.py
+14. filedialog2.py
+15. menubar.py
+16. frame.py
+17. new_window.py
+18. window_tab.py
+19. grid_layout.py
+20. progress_bar.py
+21. canvas.py
+22. key_event.py
+23. mouse_event.py
+24. drag_drop.py
+25. move_images.py
+26. move_images_canvas.py
+27. single_animation.py
+28. multiple-animation/multiple_animation.py
